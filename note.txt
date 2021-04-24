@@ -1,0 +1,6 @@
+We just published our local Git Repo 
+to remote GitHUb>com reposotory
+Few things happen:
+1.Automatically created new remote Repo under GitHub.com account
+2.Made the connection with local git repo
+3. Added all your commits to remote repo
