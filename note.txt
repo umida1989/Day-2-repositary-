@@ -6,6 +6,14 @@ Few things happen:
 3. Added all your commits to remote repo
 
 
+How to save after adding some text in sublime 
+On mac  Command + S 
+On windows Control + S 
+Or Click on File --> Save 
+
+We do not have to push one commit at a time 
+You can push multiple commits in one shot 
+There is no limit
 Now our work will continue locally 
 
 1. add a new file called note.txt 
